@@ -1,0 +1,88 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp.Android", "PizzaApp.Android\PizzaApp.Android.csproj", "{78DC6E73-B77E-4BAD-8431-F1299677444E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp.iOS", "PizzaApp.iOS\PizzaApp.iOS.csproj", "{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "PizzaApp", "PizzaApp\PizzaApp.shproj", "{B55146E6-2506-4F01-A2E4-861B0D06795C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|Any CPU = AppStore|Any CPU
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|Any CPU.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|Any CPU.Build.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|Any CPU.Deploy.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|iPhoneSimulator.Build.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|Any CPU.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|Any CPU.Build.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|Any CPU.Deploy.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|iPhoneSimulator.Build.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.AppStore|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Release|iPhone.Build.0 = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{78DC6E73-B77E-4BAD-8431-F1299677444E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Ad-Hoc|Any CPU.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Ad-Hoc|Any CPU.Build.0 = Ad-Hoc|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.AppStore|Any CPU.ActiveCfg = AppStore|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.AppStore|Any CPU.Build.0 = AppStore|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Release|iPhone.Build.0 = Release|iPhone
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3975C0CC-40D6-40A3-B9ED-BC3F0DE27C4E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		PizzaApp\PizzaApp.projitems*{3975c0cc-40d6-40a3-b9ed-bc3f0de27c4e}*SharedItemsImports = 4
+		PizzaApp\PizzaApp.projitems*{78dc6e73-b77e-4bad-8431-f1299677444e}*SharedItemsImports = 4
+		PizzaApp\PizzaApp.projitems*{b55146e6-2506-4f01-a2e4-861b0d06795c}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
