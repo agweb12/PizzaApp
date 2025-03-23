@@ -360,6 +360,7 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+<<<<<<< HEAD
 FodyWeavers.xsd
 
 # MAUI build artifacts
@@ -378,3 +379,6 @@ FodyWeavers.xsd
 *.xcodeproj
 *.dSYM/
 *.ipa
+=======
+FodyWeavers.xsd
+>>>>>>> 08400153df119c33c194e52bd48b1b5b1f6bbeb3
